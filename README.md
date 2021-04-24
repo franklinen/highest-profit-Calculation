@@ -1,4 +1,4 @@
-# sada_challenge_data_manipulation
+# sada_highest_profit
 A data manipulation exercise in python
 
 # Contributing to the project  
