@@ -24,7 +24,7 @@ data.sort_values(by=['profit'], ascending=False, inplace=True)
 # Export top 20 to .json
 data[:20].to_json('data2.json', orient='records')
 #import the json file and print it
-with open(r'C:\Users\MAIN\Desktop\sada\data2.json') as f:
+with open('data2.json') as f:
     data2 = json.load(f)
 print(data2)
 
