@@ -1,7 +1,7 @@
 #declare environment variables
-import os
-os.chdir(r'C:\Users\MAIN\Desktop\sada')
-os.getcwd()
+#import os
+#os.chdir(r'C:\Users\MAIN\Desktop\sada')
+#os.getcwd()
 #import libraries
 import json
 import pandas as pd
