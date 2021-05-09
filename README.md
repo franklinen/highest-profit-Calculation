@@ -1,5 +1,5 @@
 # sada_highest_profit
-A data manipulation exercise in python
+A data manipulation exercise in python for to calculate the customers with the highest profit
 
 # Contributing to the project  
 
