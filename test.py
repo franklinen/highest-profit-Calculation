@@ -6,7 +6,7 @@
 import json
 import pandas as pd
 
-#import file
+#import data file
 url = 'https://gist.githubusercontent.com/bobbae/b4eec5b5cb0263e7e3e63a6806d045f2/raw/279b794a834a62dc108fc843a72c94c49361b501/data.csv'
 data = pd.read_csv(url)
 # Total rows
